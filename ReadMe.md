@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a french student who loves programming and tinkering with computers!
+**I'm a french student who loves programming and tinkering with computers!**
 
 
 # 💻 Tech Stack:
